@@ -6,7 +6,7 @@ import BookScreen from './screens/BookScreen';
 import BookDetailScreen from './screens/BookDetailScreen';
 import AddBook from './screens/AddBook';
 import firebase from "firebase";
-const firebaseConfiguration = {  apiKey: "AIzaSyAfa0xKb4-jFzGFfVtGoZ74MvQagXHGnNI",
+const firebaseConfiguration = {  apiKey: "---",
   authDomain: "first-project-connorl.firebaseapp.com",
   projectId: "first-project-connorl",
   storageBucket: "first-project-connorl.appspot.com",
